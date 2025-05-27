@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_format_options">
+        <item>2-byte unsigned LE integer</item>
+        <item>2-byte signed LE integer</item>
+        <item>4-byte unsigned LE integer</item>
+        <item>4-byte signed LE integer</item>
+        <item>4-byte LE float</item>
+        <item>UTF-8 String</item>
+        <item>Hex String</item>
+    </string-array>
+</resources>
