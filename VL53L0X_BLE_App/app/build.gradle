@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.example.vl53l0xbleapp'
-    compileSdk 33 // Target SDK, can be updated later
+    compileSdk 34 // Target SDK, can be updated later
 
     defaultConfig {
         applicationId "com.example.vl53l0xbleapp"
